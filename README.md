@@ -10,7 +10,7 @@ Polynomial interpolation, dynamic base decoding, JSON input handling, robust cal
 - [Getting Started](#getting-started) - [Installation](#installation) - [Usage](#usage) - [Input Format](#input-format) - [Example Output](#example-output) - [Contributing](#contributing) - [License](#license) - [Acknowledgements](#acknowledgements)
 
 ## Getting Started
-Clone the repository: `git clone https://github.com/praveenpandeypa1/Secret.git`, navigate to the directory: `cd Secret-Sharing`, and install dependencies: `npm install`.
+Clone the repository: `git clone https://github.com/praveenpandeypa1/Secret.git`, navigate to the directory: `cd Secret-Sharing`, and install dependencies: `npm install`, To run: `node index.js`.
 
 ## Usage
 Run the program with: `node index.js`. Ensure a valid JSON input file is present.
